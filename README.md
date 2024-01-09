@@ -1,6 +1,6 @@
-# Hi, I'm Juan Clemente 👋
+# Juan Clemente 👋
 
-## Intro
+## Frontend Developer
 
 Developer since 2023
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
